@@ -3,10 +3,7 @@ public class Player {
 	//color of a certain player
 	private String color;
 	
-	public Player(String color)
-	{
-		this.color=color;
-	}
+
 	
 	//This methods is intended to return the color of the player
 	public String getColor() {
