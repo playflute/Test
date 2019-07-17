@@ -1,5 +1,6 @@
 
 public class Player {
+	//color of a certain player
 	private String color;
 	
 	public Player(String color)
