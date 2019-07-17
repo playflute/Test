@@ -7,7 +7,8 @@ public class Player {
 	{
 		this.color=color;
 	}
-
+	
+	//This methods is intended to return the color of the player
 	public String getColor() {
 		return color;
 	}
